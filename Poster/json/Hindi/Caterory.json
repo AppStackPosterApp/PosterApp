@@ -2,52 +2,52 @@
     {
         "id":1,
         "name":"Today",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/notification.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/notification.png"
     },
     {
         "id":10,
         "name":"Good Friday",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/good-friday.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/good-friday.png"
     },
     {
         "id":7,
         "name":"Motivation",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/reward.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/reward.png"
     },
     {
         "id":2,
         "name":"Good Morning",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/sun.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/sun.png"
     },
     {
         "id":3,
         "name":"Good Night",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/moon.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/moon.png"
     },
     {
         "id":5,
         "name":"God",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/vishnu.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/vishnu.png"
     },
     {
         "id":4,
         "name":"Festivals",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/festival.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/festival.png"
     },
     {
         "id":9,
         "name":"Political",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/politics.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/politics.png"
     },
     {
         "id":6,
         "name":"Anniversary",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/couple.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/couple.png"
     },
    
     {
         "id":8,
         "name":"Holi",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/CaptionPremium/json/Icons/holi.png"
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/holi.png"
     }
 ]
