@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Trending"
+    },
+    {
+        "id":8,
+        "name":"Holi"
+    },
+    {
+        "id":2,
+        "name":"Good Friday"
+    },
+    {
+        "id":3,
+        "name":"Politics"
+    },
+    {
+        "id":4,
+        "name":"God"
+    },
+    {
+        "id":7,
+        "name":"Motivation"
+    }
+]
