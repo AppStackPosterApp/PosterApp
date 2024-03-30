@@ -5,6 +5,11 @@
         "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/notification.png"
     },
     {
+        "id":11,
+        "name":"Easter",
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/easter.png"
+    },
+    {
         "id":10,
         "name":"Good Friday",
         "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/good-friday.png"
