@@ -15,11 +15,6 @@
         "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/easter.png"
     },
     {
-        "id":10,
-        "name":"Good Friday",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/good-friday.png"
-    },
-    {
         "id":7,
         "name":"Motivation",
         "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/reward.png"
@@ -54,7 +49,11 @@
         "name":"Anniversary",
         "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/couple.png"
     },
-   
+    {
+        "id":10,
+        "name":"Good Friday",
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/good-friday.png"
+    },
     {
         "id":8,
         "name":"Holi",
