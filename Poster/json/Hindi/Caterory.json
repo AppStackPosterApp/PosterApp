@@ -1,13 +1,14 @@
 [
-    {
-        "id":1,
-        "name":"Day Special",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/notification.png"
-    },
+   
     {
         "id":7,
         "name":"Motivation",
         "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/reward.png"
+    },
+    {
+        "id":13,
+        "name":"Did you know?",
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/know.png"
     },
     {
         "id":2,
