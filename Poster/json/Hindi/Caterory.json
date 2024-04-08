@@ -1,5 +1,9 @@
 [
-   
+    {
+        "id":14,
+        "name":"Gudi Padwa",
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/kalasha.png"
+    },
     {
         "id":7,
         "name":"Motivation",
