@@ -11,11 +11,6 @@
         "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/know.png"
     },
     {
-        "id":16,
-        "name":"राम नवमी",
-        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/ram.png"
-    },
-    {
         "id":2,
         "name":"Good Morning",
         "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/sun.png"
@@ -74,5 +69,10 @@
         "id":8,
         "name":"Holi",
         "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/holi.png"
+    },
+    {
+        "id":16,
+        "name":"राम नवमी",
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/ram.png"
     }
 ]
