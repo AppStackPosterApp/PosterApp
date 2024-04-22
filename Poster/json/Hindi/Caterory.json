@@ -1,5 +1,9 @@
 [
-    
+    {
+        "id":1,
+        "name":"Today",
+        "url":"https://raw.githubusercontent.com/AppStackPosterApp/PosterApp/main/Poster/json/Icons/notification.png"
+    },
     {
         "id":7,
         "name":"Motivation",
